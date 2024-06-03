@@ -1,5 +1,3 @@
-console.log('Script loaded successfully');
-
 function add(x, y) {
     return x + y;
 }
